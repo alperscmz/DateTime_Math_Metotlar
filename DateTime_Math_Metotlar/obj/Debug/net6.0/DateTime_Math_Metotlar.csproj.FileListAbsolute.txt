@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\bin\Debug\net6.0\DateTime_Math_Metotlar.exe
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\bin\Debug\net6.0\DateTime_Math_Metotlar.deps.json
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\bin\Debug\net6.0\DateTime_Math_Metotlar.runtimeconfig.json
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\bin\Debug\net6.0\DateTime_Math_Metotlar.dll
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\bin\Debug\net6.0\ref\DateTime_Math_Metotlar.dll
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\bin\Debug\net6.0\DateTime_Math_Metotlar.pdb
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.AssemblyInfo.cs
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.dll
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\ref\DateTime_Math_Metotlar.dll
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.pdb
+C:\Users\alper\Desktop\Pratikler\DateTime_Math_Metotlar\obj\Debug\net6.0\DateTime_Math_Metotlar.genruntimeconfig.cache
